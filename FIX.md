@@ -59,7 +59,7 @@ source_IP="0.0.0.0"
 ## Checking the device configuration
 
 После анализа журнала была выполнена проверка конфигурации сетевых сервисов принтера.
-<img width="1183" height="465" alt="image" src="https://github.com/user-attachments/assets/51e3079b-6852-4c75-a3a2-75e95894c39a" />
+<img width="1182" height="418" alt="{CEDEFEB1-4AF8-4CBC-8060-A0B9278CBD7B}" src="https://github.com/user-attachments/assets/336c5f91-addf-4023-9b89-f248574a4779" />
 
 В ходе проверки было установлено, что на устройстве активированы следующие сервисы:
 

@@ -17,7 +17,7 @@
 <img width="1280" height="357" alt="image" src="https://github.com/user-attachments/assets/5123c61e-1b13-47a7-94f4-93974f09c5fc" />
 
 Журнал был экспортирован для проведения дополнительного анализа.
-<img width="764" height="205" alt="{B9F9521B-CDE3-43A5-B980-508CA326546A}" src="https://github.com/user-attachments/assets/ea46062c-37cf-40ec-ad3e-6457fd702929" />
+<img width="764" height="205" alt="Без имени" src="https://github.com/user-attachments/assets/d0cea0a4-8bc8-4bcf-948d-c331bc954a7a" />
 
 Анализ экспортированных данных показал:
 

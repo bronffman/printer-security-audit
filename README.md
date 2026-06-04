@@ -34,7 +34,7 @@ petrov: 1
 
 top source IPs:
 0.0.0.0: 4
-10.10.??.??: 1
+10.10.x.x: 1
 ```
 
 ## Application

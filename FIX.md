@@ -1,4 +1,4 @@
-# Разбор инцидента с принтером HP
+# HP Printer Incident Analysis
 
 ## Initial situation
 
